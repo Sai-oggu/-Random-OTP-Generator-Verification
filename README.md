@@ -5,9 +5,9 @@ This project generates a random 6-digit OTP using JavaScript and allows the user
 
 
 ## 🔗 Live Demo / Project Link
-👉 **Project Link:** https://your-github-username.github.io/otp-generator-project  
+👉 **Project Link:  https://sai-oggu.github.io/Random-OTP-Generator-Verification/
 
-👉 **GitHub Repository:** https://github.com/Sai-oggu/-Random-OTP-Generator-Verification
+👉 **GitHub Repository:   https://github.com/Sai-oggu/-Random-OTP-Generator-Verification
 
 
 
